@@ -1,0 +1,21 @@
+{
+  "name": "tcp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.10.3",
+    "@types/proper-lockfile": "^4.1.4"
+  },
+  "dependencies": {
+    "proper-lockfile": "^4.1.2",
+    "zod": "^3.24.1",
+    "ts-utils": "git+https://github.com/tsaxking/global-ts-utilities.git"
+  }
+}
